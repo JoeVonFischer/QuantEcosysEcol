@@ -1,0 +1,48 @@
+---
+title: "Biomass"
+author: "Ecology 610: Colorado State University"
+date: "Last Update: `r format(Sys.time(), '%B %d, %Y')`"
+output:
+ html_document:
+    toc: true
+    toc_float:
+      toc_collapsed: true
+    toc_depth: 4
+    number_sections: False
+    theme: readable
+    code_folding: 'hide'
+    
+---
+
+## Things we can do!
+
+Put in a link:
+
+https://www.neonscience.org/
+
+---
+
+
+## Make it cool {.tabset}
+
+
+### Wow
+
+Isn't this amazing?
+
+![you can put in images and memes](scientist.jpg)
+
+### Double wow
+
+This is too!
+
+![you can even do gifs](science.gif)
+
+
+### TRIPLE WOW    
+
+lET'S DOWNLOAD DATA DIRECTLY
+
+[link](data/Cows.csv)
+
+

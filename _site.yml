@@ -1,0 +1,24 @@
+name: "ECOL592"
+navbar: 
+  title: "Quantitative Ecosystem Ecology"
+  left:
+    - text: "Introduction to R"
+      menu:
+        - text: "Intro to R Programming Basics"
+        - href: Introduction_to_R_Programming.html
+        - text: "Intro to Data Wrangling"
+        - href: Introduction_to_Data_Wrangling.html
+        - text: "Intro to Data Visualization"
+        - href: Introduction_to_Data_Visualization.html
+    - text: "Ecosystem Ecology"
+      menu:
+        - text: "Lesson 1"
+        - href: lesson_1.html
+    - text: "Ecosystem Data Analysis"
+      menu:
+        - text: "Biomass"
+        - href: biomass.html
+        - text: "Eddy covariance flux"
+        - href: eddy.html
+        - text: "Soils"
+        - href: soils.html
